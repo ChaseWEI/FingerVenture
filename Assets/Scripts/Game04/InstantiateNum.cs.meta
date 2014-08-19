@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f0295bf4aebb9d44e951e30325943143
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - num1: {fileID: 100000, guid: e3eaf4305a7124d4991523faff2ae3d1, type: 2}
+  - num2: {fileID: 100000, guid: 4d45f5ffcc73b1c47a7411fae2987048, type: 2}
+  - num3: {fileID: 100000, guid: ed9358db5da7df240a3184e0c41ad9b5, type: 2}
+  - num4: {fileID: 100000, guid: ae0ac86dd34ee184dbd42f66c349d303, type: 2}
+  - num5: {fileID: 100000, guid: f223f8cca2724db40910d5e187fde44d, type: 2}
+  - num6: {fileID: 100000, guid: 5bd8ae368f606694ea62abd36ff26a5f, type: 2}
+  - num7: {fileID: 100000, guid: 9050b39fddc424e41967a0e78985ff9e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
